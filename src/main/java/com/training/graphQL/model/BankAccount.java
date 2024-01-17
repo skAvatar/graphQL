@@ -9,6 +9,6 @@ import java.util.UUID;
 @Builder
 public class BankAccount {
     UUID id;
-    String name;
+    Client client;
     Currency currency;
 }

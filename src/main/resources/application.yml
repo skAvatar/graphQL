@@ -1,2 +1,8 @@
+graphql:
+  voyager:
+    base-path: /
+    enabled: true
+    endpoint: /graphql
+
 
 

@@ -1,3 +1,4 @@
+# Just 3 Coins for now
 enum Currency{
     USD,
     MXN,
